@@ -1,5 +1,5 @@
 # DesafioControleFluxo
-explorando alguns cenários com fluxos condicionais, repetições e excepcionais.
+Explorando alguns cenários com fluxos condicionais, repetições e excepcionais.
 
 Pré-requisitos:
 
